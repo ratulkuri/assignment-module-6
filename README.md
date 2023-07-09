@@ -33,3 +33,4 @@ This is a simple React application that allows you to display text below a butto
 
 - React
 - Vite
+- Tailwindcss
