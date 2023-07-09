@@ -1,4 +1,4 @@
-# React Text Display
+# Assignment Module 6
 
 This is a simple React application that allows you to display text below a button click.
 
